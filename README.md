@@ -3,7 +3,6 @@
 The following was discovered as part of building this project:
 
 - The original package name 'com.dio.santander.bankline-api2' is invalid and this project uses 'com.dio.santander.banklineapi2' instead.
-- The link of API in Heroku: https://dio-bankline-api-java.herokuapp.com/swagger-ui/index.html.
 
 # Getting Started
 
